@@ -22,7 +22,7 @@ El pipeline correlaciona la filogenia molecular tradicional con la conservación
 
 ## Hipótesis Científica
 
-> "Si bien el dominio catalítico (**Metallopeptidase M12B**) presentará una alta conservación de secuencia (baja entropía) para preservar la función enzimática, los dominios auxiliares C-terminales identificados por **InterPro/SMART** mostrarán patrones de mutación acelerada, correlacionándose con la diversificación evolutiva de las especies analizadas."
+> "Si bien el dominio catalítico (**Metallopeptidase M12B**) presentará una alta conservación de secuencia  para preservar la función enzimática, los dominios auxiliares C-terminales identificados por **InterPro/SMART** mostrarán patrones de mutación acelerada, correlacionándose con la diversificación evolutiva de las especies analizadas."
 
 ---
 
