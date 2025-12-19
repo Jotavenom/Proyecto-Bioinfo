@@ -80,16 +80,3 @@ Este proyecto prioriza la reproducibilidad y la eficiencia mediante el uso de AP
 
 ---
 
-## Instalación y Uso
-
-Este proyecto está diseñado para ejecutarse en **Google Colab**
-
-### Prerrequisitos
-Instalación de dependencias del sistema y de Python:
-
-```bash
-# Instalación del binario MUSCLE (Debian/Ubuntu/Colab)
-apt-get install muscle
-
-# Instalación de librerías Python
-pip install biopython bioservices logomaker pandas matplotlib
