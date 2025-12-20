@@ -16,7 +16,7 @@
 
 Este proyecto implementa un flujo de trabajo bioinformático para caracterizar la evolución molecular de las **Metaloproteinasas de Veneno de Serpiente (SVMPs)** en 10 especies distintas.
 
-El pipeline correlaciona la filogenia molecular tradicional con la conservación de dominios funcionales, utilizando un enfoque híbrido que combina herramientas locales (alineamiento, filogenia) con consultas a bases de datos remotas en la nube (EBI InterPro) para la anotación estructural automatizada.
+El pipeline correlaciona la filogenia molecular con la conservación de dominios funcionales, utilizando un enfoque híbrido que combina herramientas locales (alineamiento, filogenia) con consultas a bases de datos remotas en la nube (EBI InterPro) para la anotación estructural automatizada.
 
 ---
 
